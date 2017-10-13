@@ -1,0 +1,15 @@
+{
+  "name": "ember-cli-mirage",
+  "version": "0.3.4",
+  "description": "RetailNext build of mirage for ember",
+  "main": "./ember-cli-mirage.js",
+  "keywords": [
+    "ember mirage"
+  ],
+  "authors": [
+    "Unknown"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/belden/ember-cli-mirage",
+  "private": true
+}
